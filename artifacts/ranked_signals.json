@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sig_007",
+    "title": "Financial firms test 'Identity Wallets' for AI agents",
+    "summary": "Banks piloting crypto-based identity wallets so agents can hold and spend budgets autonomously.",
+    "category": "Fintech",
+    "source": "CoinDesk",
+    "score": 9
+  },
+  {
+    "id": "sig_001",
+    "title": "Anthropic introduces 'Computer Use' capability",
+    "summary": "AI models can now control mouse/keyboard to execute complex workflows across apps.",
+    "category": "Agents",
+    "source": "TechCrunch",
+    "score": 5
+  },
+  {
+    "id": "sig_004",
+    "title": "Rise of 'Verification-as-a-Service' startups",
+    "summary": "New wave of startups focusing solely on verifying AI-generated code and content before deployment.",
+    "category": "Infrastructure",
+    "source": "VentureBeat",
+    "score": 5
+  }
+]

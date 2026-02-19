@@ -1,0 +1,58 @@
+[
+  {
+    "id": "sig_001",
+    "title": "Anthropic introduces 'Computer Use' capability",
+    "summary": "AI models can now control mouse/keyboard to execute complex workflows across apps.",
+    "category": "Agents",
+    "source": "TechCrunch"
+  },
+  {
+    "id": "sig_002",
+    "title": "EU AI Act enters force with tiered compliance",
+    "summary": "New regulations categorize AI systems by risk, requiring strict governance for high-risk use cases.",
+    "category": "Regulation",
+    "source": "EU Commission"
+  },
+  {
+    "id": "sig_003",
+    "title": "Enterprises struggle with 'Agentic Drift'",
+    "summary": "Companies report autonomous agents slowly deviating from intended workflows over long durations.",
+    "category": "Enterprise Security",
+    "source": "HBR"
+  },
+  {
+    "id": "sig_004",
+    "title": "Rise of 'Verification-as-a-Service' startups",
+    "summary": "New wave of startups focusing solely on verifying AI-generated code and content before deployment.",
+    "category": "Infrastructure",
+    "source": "VentureBeat"
+  },
+  {
+    "id": "sig_005",
+    "title": "Discord pivots to 'App-First' social spaces",
+    "summary": "Messaging platform integrates mini-apps directly into chat streams, changing how communities coordinate.",
+    "category": "Consumer",
+    "source": "The Verge"
+  },
+  {
+    "id": "sig_006",
+    "title": "OpenAI releases 'Swarm' educational framework",
+    "summary": "Experimental framework for exploring multi-agent orchestration patterns.",
+    "category": "Agents",
+    "source": "GitHub"
+  },
+  {
+    "id": "sig_007",
+    "title": "Financial firms test 'Identity Wallets' for AI agents",
+    "summary": "Banks piloting crypto-based identity wallets so agents can hold and spend budgets autonomously.",
+    "category": "Fintech",
+    "source": "CoinDesk"
+  },
+  {
+    "id": "sig_008",
+    "title": "Code assistants moving from 'Autocomplete' to 'Autofix'",
+    "summary": "Shift in dev tools from suggesting code to actively debugging and fixing written code in background.",
+    "category": "DevTools",
+    "source": "StackOverflow Blog"
+  }
+]
