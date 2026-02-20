@@ -1,58 +1,62 @@
 [
   {
-    "id": "sig_001",
-    "title": "Anthropic introduces 'Computer Use' capability",
-    "summary": "AI models can now control mouse/keyboard to execute complex workflows across apps.",
+    "id": "web_002",
+    "title": "OpenAI introduces ChatGPT agent",
+    "summary": "OpenAI launched ChatGPT agent capabilities that combine reasoning and action for multi-step tasks.",
     "category": "Agents",
-    "source": "TechCrunch"
+    "source": "OpenAI",
+    "date": "2025-07-17",
+    "url": "https://openai.com/blog/introducing-chatgpt-agent/",
+    "channel": "web"
   },
   {
-    "id": "sig_002",
-    "title": "EU AI Act enters force with tiered compliance",
-    "summary": "New regulations categorize AI systems by risk, requiring strict governance for high-risk use cases.",
-    "category": "Regulation",
-    "source": "EU Commission"
+    "id": "web_003",
+    "title": "OpenAI Operator integrated into ChatGPT agent mode",
+    "summary": "Operator browser-based capabilities were integrated into ChatGPT agent mode and standalone Operator was sunset.",
+    "category": "Agents",
+    "source": "OpenAI",
+    "date": "2025-07-17",
+    "url": "https://openai.com/index/introducing-operator/",
+    "channel": "web"
   },
   {
-    "id": "sig_003",
-    "title": "Enterprises struggle with 'Agentic Drift'",
-    "summary": "Companies report autonomous agents slowly deviating from intended workflows over long durations.",
-    "category": "Enterprise Security",
-    "source": "HBR"
-  },
-  {
-    "id": "sig_004",
-    "title": "Rise of 'Verification-as-a-Service' startups",
-    "summary": "New wave of startups focusing solely on verifying AI-generated code and content before deployment.",
+    "id": "web_001",
+    "title": "Amazon Bedrock multi-agent collaboration reaches GA",
+    "summary": "AWS announced general availability of Bedrock multi-agent collaboration with observability and infrastructure-as-code support.",
     "category": "Infrastructure",
-    "source": "VentureBeat"
+    "source": "AWS",
+    "date": "2025-03-10",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-multi-agent-collaboration/",
+    "channel": "web"
   },
   {
-    "id": "sig_005",
-    "title": "Discord pivots to 'App-First' social spaces",
-    "summary": "Messaging platform integrates mini-apps directly into chat streams, changing how communities coordinate.",
-    "category": "Consumer",
-    "source": "The Verge"
+    "id": "web_006",
+    "title": "Salesforce launches Agentforce 2dx",
+    "summary": "Salesforce introduced Agentforce 2dx with proactive autonomous agents, developer tooling, and marketplace distribution.",
+    "category": "Enterprise Software",
+    "source": "Salesforce",
+    "date": "2025-03-05",
+    "url": "https://investor.salesforce.com/news/news-details/2025/Salesforce-Launches-Agentforce-2dx-with-New-Capabilities-to-Embed-Proactive-Agentic-AI-into-Any-Workflow-Create-Multimodal-Experiences-and-Extend-Digital-Labor-Throughout-the-Enterprise/default.aspx",
+    "channel": "web"
   },
   {
-    "id": "sig_006",
-    "title": "OpenAI releases 'Swarm' educational framework",
-    "summary": "Experimental framework for exploring multi-agent orchestration patterns.",
-    "category": "Agents",
-    "source": "GitHub"
+    "id": "web_004",
+    "title": "Vertex AI Agent Engine is generally available",
+    "summary": "Google Cloud announced Vertex AI Agent Engine GA, signaling production maturity for managed agent deployment.",
+    "category": "Infrastructure",
+    "source": "Google Cloud",
+    "date": "2025-03-04",
+    "url": "https://cloud.google.com/agent-builder/release-notes",
+    "channel": "web"
   },
   {
-    "id": "sig_007",
-    "title": "Financial firms test 'Identity Wallets' for AI agents",
-    "summary": "Banks piloting crypto-based identity wallets so agents can hold and spend budgets autonomously.",
-    "category": "Fintech",
-    "source": "CoinDesk"
-  },
-  {
-    "id": "sig_008",
-    "title": "Code assistants moving from 'Autocomplete' to 'Autofix'",
-    "summary": "Shift in dev tools from suggesting code to actively debugging and fixing written code in background.",
-    "category": "DevTools",
-    "source": "StackOverflow Blog"
+    "id": "web_005",
+    "title": "Copilot Studio autonomous agents now generally available",
+    "summary": "Microsoft announced GA for autonomous agents in Copilot Studio with trigger-based event handling and execution visibility.",
+    "category": "Enterprise Software",
+    "source": "Microsoft",
+    "date": "2025-03-01",
+    "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-march-2025/",
+    "channel": "web"
   }
 ]

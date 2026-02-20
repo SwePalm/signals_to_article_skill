@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "seen_ids": [
+    "4f52e74ae058a8aea4194f6b596419f47f9795575776b6acc0a8e0b9f9cfbcef",
+    "8f6931a8316806878212139b6220d6f4a9a36ec99d448b3a24068ef6ce1295c2",
+    "c1ee582ac215c5a3759bf8430f0e59b32c3324472d6ab51d5def06a572e57a21"
+  ],
+  "feeds": {
+    "file:///Users/stefanpalm/rss-skill/skills/rss-fetch/tests/fixtures/sample_rss.xml": {
+      "last_success_at": "2026-02-16T18:53:26.560273+00:00",
+      "last_error_at": null,
+      "last_error": null,
+      "etag": null,
+      "last_modified": null
+    },
+    "file:///Users/stefanpalm/rss-skill/skills/rss-fetch/tests/fixtures/sample_atom.xml": {
+      "last_success_at": "2026-02-16T18:53:26.560348+00:00",
+      "last_error_at": null,
+      "last_error": null,
+      "etag": null,
+      "last_modified": null
+    }
+  }
+}

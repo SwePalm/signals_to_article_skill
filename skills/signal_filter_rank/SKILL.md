@@ -9,11 +9,11 @@ allowed-tools: All
 **Goal:** Select the top 3 signals with the highest transformation potential.
 
 ## Instructions
-1.  **Input:** Takes a JSON list of signals (from `signal_harvest`).
+1.  **Input:** Takes a JSON list of signals from `artifacts/raw_signals.json` (produced by `signal_harvest` merge step).
 2.  **Run the rank script:**
-    Save the signals to a temp file `temp_signals.json` or pipe them.
+    Use `artifacts/raw_signals.json` directly, or save to a temp file.
     ```bash
-    python skills/signal_filter_rank/scripts/rank.py --input temp_signals.json
+    python skills/signal_filter_rank/scripts/rank.py --input artifacts/raw_signals.json
     ```
 3.  **Output:** Top 3 signals object.
 

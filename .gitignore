@@ -11,3 +11,5 @@ venv/
 .vscode/
 .idea/
 .gemini/
+skills/rss-fetch/data/
+output/runs/

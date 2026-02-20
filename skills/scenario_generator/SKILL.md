@@ -12,7 +12,7 @@ allowed-tools: All
 1.  **Input:**
     *   **Chosen Signal:** (You must select the most promising one from `SIGNALS.md`)
     *   **Chosen Mechanism:** (Select the most relevant one from `MECHANISMS.md` for that signal)
-    *   **Horizon:** 2-5 years.
+    *   **Horizon:** 6-24 months total, with strong emphasis on the next 6-12 months.
 
 2.  **Action: Analysis (Pre-Scoping)**
     *   Before writing the scenarios, perform a **Chain of Thought** analysis:
@@ -22,10 +22,10 @@ allowed-tools: All
 
 3.  **Action: Generation**
     *   Generate two distinct scenarios.
-    *   **Scenario A: Near Future (12-24 months)**
+    *   **Scenario A: Near Future (6-12 months)**
         *   *Constraint:* High plausibility. "This is basically already happening in beta."
         *   *Focus:* Operational changes, early adoption friction.
-    *   **Scenario B: Edge Case (2-5 years)**
+    *   **Scenario B: Edge Case (12-24 months)**
         *   *Constraint:* Plausible but uncomfortable/disruptive.
         *   *Focus:* Second-order effects, regulatory clashes, new business models.
 

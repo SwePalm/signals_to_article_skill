@@ -17,6 +17,7 @@ allowed-tools: All
     *   Tighten the language.
     *   Remove fluff.
     *   Ensure the "Mechanisms" are specific.
+    *   Keep the main insight horizon grounded in the next 6-12 months.
     *   Preserve the mandatory specific structure and disclaimer.
 
 ## Deliverable

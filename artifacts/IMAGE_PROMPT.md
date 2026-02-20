@@ -1,11 +1,1 @@
-# Image Prompt
-
-**Subject:** A high-stakes corporate boardroom at twilight. A senior executive in a sharp, tailored suit stands in front of a minimalist glass desk. On the desk, a transparent tablet displays two competing data streams in a clean, professional interface—one labeled "Execute" and one labeled "Verify." 
-
-**Action:** The executive is pausing with a look of intense concentration, their hand hovering over the screen, tasked with arbitrating a deadlock between the two systems.
-
-**Style:** Photorealistic, 35mm film photography, cinematic lighting with high contrast. Deep blues and warm interior lighting. Shallow depth of field focusing on the executive’s expression and the interface on the desk. 
-
-**Vibe:** Professional, moody, high-pressure, grounded in reality.
-
-**Negative Constraints:** No glowing brains, no holographic robots, no matrix-style code, no neon colors.
+Photorealistic 35mm cinematic scene in an enterprise release-operations room during daytime. A platform engineer, release manager, and risk analyst stand around a large monitor showing a multi-agent workflow timeline with visible handoff checkpoints, policy scope fields, and escalation owners. One handoff is flagged red with missing ownership and the team is actively triaging. Natural business attire, realistic office materials, laptops, printed runbook, sticky notes, and calm but focused expressions. Documentary realism, subtle moody lighting, high texture detail, no futuristic holograms, no robot imagery, no abstract symbols.

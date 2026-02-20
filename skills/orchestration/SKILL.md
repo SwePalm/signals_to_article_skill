@@ -24,10 +24,10 @@ This skill describes the step-by-step process to transform weak signals into a c
 ### Phase 1: Signal Capture (Parallelish)
 **Goal:** Find and select the best signal.
 1.  **Execute Skill:** `skills/signal_harvest`
-    *   *Instruction:* Run the harvest script or perform web searches to find 8-12 recent signals related to the theme.
-    *   *Output:* A raw list of signals.
+    *   *Instruction:* Use both channels: (a) native web search and (b) RSS feeds via `skills/rss-fetch` with a 24-hour filter, then merge+dedupe.
+    *   *Output:* `artifacts/raw_signals.json` with 8-12 merged signals.
 2.  **Execute Skill:** `skills/signal_filter_rank`
-    *   *Input:* The list from step 1.
+    *   *Input:* `artifacts/raw_signals.json` from step 1.
     *   *Instruction:* Score them based on novelty, relevance, and transformation potential.
     *   *Output:* Top 3 ranked signals.
 3.  **Execute Skill:** `skills/signal_context_pack`
@@ -48,8 +48,8 @@ This skill describes the step-by-step process to transform weak signals into a c
 2.  **Execute Skill:** `skills/scenario_generator`
     *   *Input:* Selected Signal, Selected Mechanism.
     *   *Instruction:* Generate two scenarios:
-        *   **Near Scenario** (12-24 months): Very plausible.
-        *   **Edge Scenario** (2-5 years): Plausible but uncomfortable.
+        *   **Near Scenario** (6-12 months): Very plausible and operationally immediate.
+        *   **Edge Scenario** (12-24 months): Plausible but uncomfortable.
     *   *Deliverable:* Write to `artifacts/SCENARIOS.md`.
 
 ### Phase 4: Implication Synthesis

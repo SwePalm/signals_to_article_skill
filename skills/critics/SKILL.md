@@ -19,7 +19,7 @@ allowed-tools: All
     *   *Anti-Goal:* Look for "high-frequency bypasses"—identify where a business would simply ignore the governance for speed, and force the draft to explain why they *can't*.
 3.  **H3: Credibility Guard:** "Does this sound like 'thought leader' fluff? Are we overclaiming?" 
     *   *Anti-Goal:* Kill all "vague optimism." Replace with "specific operational reality." If it sounds like a LinkedIn template, it's wrong.
-4.  **H4: Structure Guard:** "Does it follow the Hook -> Mechanism -> Scenario -> Implication flow? Did they include the disclaimer?"
+4.  **H4: Structure Guard:** "Does it follow the Hook -> Mechanism -> Scenario -> Implication flow? Did they include the disclaimer? Is the timeline anchored in 6-12 months?"
 
 ## Deliverable
 Write a bulleted list of critiques to `artifacts/CRITIQUES.md`.

@@ -1,26 +1,35 @@
 [
   {
-    "id": "sig_007",
-    "title": "Financial firms test 'Identity Wallets' for AI agents",
-    "summary": "Banks piloting crypto-based identity wallets so agents can hold and spend budgets autonomously.",
-    "category": "Fintech",
-    "source": "CoinDesk",
-    "score": 9
+    "id": "web_001",
+    "title": "Amazon Bedrock multi-agent collaboration reaches GA",
+    "summary": "AWS announced general availability of Bedrock multi-agent collaboration with observability and infrastructure-as-code support.",
+    "category": "Infrastructure",
+    "source": "AWS",
+    "date": "2025-03-10",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-multi-agent-collaboration/",
+    "channel": "web",
+    "score": 7
   },
   {
-    "id": "sig_001",
-    "title": "Anthropic introduces 'Computer Use' capability",
-    "summary": "AI models can now control mouse/keyboard to execute complex workflows across apps.",
+    "id": "web_002",
+    "title": "OpenAI introduces ChatGPT agent",
+    "summary": "OpenAI launched ChatGPT agent capabilities that combine reasoning and action for multi-step tasks.",
     "category": "Agents",
-    "source": "TechCrunch",
+    "source": "OpenAI",
+    "date": "2025-07-17",
+    "url": "https://openai.com/blog/introducing-chatgpt-agent/",
+    "channel": "web",
     "score": 5
   },
   {
-    "id": "sig_004",
-    "title": "Rise of 'Verification-as-a-Service' startups",
-    "summary": "New wave of startups focusing solely on verifying AI-generated code and content before deployment.",
-    "category": "Infrastructure",
-    "source": "VentureBeat",
+    "id": "web_003",
+    "title": "OpenAI Operator integrated into ChatGPT agent mode",
+    "summary": "Operator browser-based capabilities were integrated into ChatGPT agent mode and standalone Operator was sunset.",
+    "category": "Agents",
+    "source": "OpenAI",
+    "date": "2025-07-17",
+    "url": "https://openai.com/index/introducing-operator/",
+    "channel": "web",
     "score": 5
   }
 ]

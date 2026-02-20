@@ -21,7 +21,7 @@ allowed-tools: All
         *   *The "Semantic Shift":* "We are moving from a world of [Concept A] to a world of [Concept B]. The bridge is [Mechanism]."
         *   *The "Operational Deadlock":* "Imagine your best [Role] stalling because of [Specific Technical Friction]. This is the [Theme] problem."
     *   **Mechanism:** Explain the structural shift. Avoid "not just a feature"—use "fundamental change in [System Layer]."
-    *   **Scenario:** Briefly paint the picture of the Near Future scenario. Focus on the *drift* or *governance* aspect.
+    *   **Scenario:** Briefly paint the picture of the Near Future scenario, anchored in a 6-12 month window. Focus on the *drift* or *governance* aspect.
     *   **Implication:** Hit the hardest Strategic implication.
     *   **Disclaimer:** Must include the exact sentence: "This is not a prediction."
     *   **Closing:** End with a hard, open-ended question for the reader.
@@ -31,6 +31,7 @@ allowed-tools: All
     *   **Sentence Length:** Vary sentence length. Use short, punchy statements for emphasis.
     *   **Persona:** Speak as a Lead Architect, not a marketing copywriter. Use technical nouns over marketing adjectives.
     *   Short paragraphs (max 3 lines).
+    *   **Timeline discipline:** Prioritize what changes in the next 6-12 months; avoid defaulting to multi-year predictions unless explicitly tied to the Edge scenario.
 
 ## Deliverable
 Write the draft to `artifacts/DRAFT_POST.md`.
